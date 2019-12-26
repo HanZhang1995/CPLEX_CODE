@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<configs>
+		<config default="true" name="peizhi1" category="opl">
+			<ref name="BSPM.mod" type="model">
+			</ref>
+			<ref name="BSPM.ops" type="setting">
+			</ref>
+			<ref name="BSPM.dat" type="data">
+			</ref>
+		</config>
+	</configs>
+	
+</project>

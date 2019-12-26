@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings version="2">
+  <category name="run">
+    <setting name="run_enginelog" value="D:\Cplex129_\12.txt"/>
+    <setting name="run_displayconflicts" value="false"/>
+  </category>
+  <category name="cplex">
+    <setting name="dettilim" value="3600.0"/>
+  </category>
+  <category name="cp">
+    <setting name="timelimit" value="1800.0"/>
+  </category>
+</settings>
